@@ -1,6 +1,6 @@
 # FLA-RegEx-Answers
 
-Go to the site
+Go to the link
 
 https://www.hackerrank.com/domains/regex
 
