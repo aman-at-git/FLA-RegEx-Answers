@@ -4,4 +4,4 @@ Go to the link
 
 https://www.hackerrank.com/domains/regex
 
-Look for the questions with the name given above and compile the answers in *python 3*
+Look for the questions with the name given above and compile the answers in **Python 3**
